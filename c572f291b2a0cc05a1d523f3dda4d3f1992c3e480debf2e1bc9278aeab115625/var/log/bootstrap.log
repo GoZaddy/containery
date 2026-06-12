@@ -1,0 +1,1104 @@
+2026-06-10 03:30:19 URL:http://ports.ubuntu.com/ubuntu-ports/dists/resolute/InRelease [135549/135549] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot/var/lib/apt/lists/partial/ports.ubuntu.com_ubuntu-ports_dists_resolute_InRelease" [1]
+gpgv: Signature made Thu Apr 23 17:07:30 2026 UTC
+gpgv:                using RSA key F6ECB3762474EDA9D21B7022871920D1991BC93C
+gpgv: Good signature from "Ubuntu Archive Automatic Signing Key (2018) <ftpmaster@ubuntu.com>"
+2026-06-10 03:30:43 URL:http://ports.ubuntu.com/ubuntu-ports/dists/resolute/main/binary-arm64/by-hash/SHA256/537715817d9ed77cc919f5123edb91a48d9ae97abf05588a8f18208cc7227e08 [1468492/1468492] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot/var/lib/apt/lists/partial/ports.ubuntu.com_ubuntu-ports_dists_resolute_main_binary-arm64_Packages.xz" [1]
+2026-06-10 03:30:45 URL:http://ports.ubuntu.com/ubuntu-ports/dists/resolute/restricted/binary-arm64/by-hash/SHA256/02ebbd91ed9b8c1f4bc6888397cbe64344e80bff4645a11df3eb71e3fe6d4b17 [187120/187120] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot/var/lib/apt/lists/partial/ports.ubuntu.com_ubuntu-ports_dists_resolute_restricted_binary-arm64_Packages.xz" [1]
+2026-06-10 03:30:47 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/a/apt/apt_3.2.0_arm64.deb [1419120/1419120] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/apt_3.2.0_arm64.deb" [1]
+2026-06-10 03:30:48 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/b/base-files/base-files_14ubuntu6_arm64.deb [75232/75232] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/base-files_14ubuntu6_arm64.deb" [1]
+2026-06-10 03:30:48 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/b/base-passwd/base-passwd_3.6.8_arm64.deb [54618/54618] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/base-passwd_3.6.8_arm64.deb" [1]
+2026-06-10 03:30:49 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/b/bash/bash_5.3-2ubuntu1_arm64.deb [829052/829052] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/bash_5.3-2ubuntu1_arm64.deb" [1]
+2026-06-10 03:30:50 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/u/util-linux/bsdutils_2.41.3-3ubuntu2_arm64.deb [82236/82236] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/bsdutils_1%3a2.41.3-3ubuntu2_arm64.deb" [1]
+2026-06-10 03:30:50 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/c/coreutils-from/coreutils_9.5-1ubuntu2+0.0.0~ubuntu25_all.deb [3060/3060] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/coreutils_9.5-1ubuntu2+0.0.0~ubuntu25_all.deb" [1]
+2026-06-10 03:30:50 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/c/coreutils-from/coreutils-from-uutils_0.0.0~ubuntu25_all.deb [7124/7124] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/coreutils-from-uutils_0.0.0~ubuntu25_all.deb" [1]
+2026-06-10 03:30:51 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/d/dash/dash_0.5.12-12ubuntu3_arm64.deb [95716/95716] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/dash_0.5.12-12ubuntu3_arm64.deb" [1]
+2026-06-10 03:30:51 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/d/debconf/debconf_1.5.92_all.deb [127278/127278] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/debconf_1.5.92_all.deb" [1]
+2026-06-10 03:30:52 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/d/debianutils/debianutils_5.23.2build1_arm64.deb [93416/93416] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/debianutils_5.23.2build1_arm64.deb" [1]
+2026-06-10 03:30:52 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/d/diffutils/diffutils_3.12-1_arm64.deb [172708/172708] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/diffutils_1%3a3.12-1_arm64.deb" [1]
+2026-06-10 03:30:53 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/d/dpkg/dpkg_1.23.7ubuntu1_arm64.deb [1260980/1260980] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/dpkg_1.23.7ubuntu1_arm64.deb" [1]
+2026-06-10 03:30:54 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/e/e2fsprogs/e2fsprogs_1.47.2-3ubuntu4_arm64.deb [603218/603218] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/e2fsprogs_1.47.2-3ubuntu4_arm64.deb" [1]
+2026-06-10 03:30:55 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/f/findutils/findutils_4.10.0-3build2_arm64.deb [309510/309510] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/findutils_4.10.0-3build2_arm64.deb" [1]
+2026-06-10 03:30:55 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/g/gcc-16/gcc-16-base_16-20260322-1ubuntu1_arm64.deb [38310/38310] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/gcc-16-base_16-20260322-1ubuntu1_arm64.deb" [1]
+2026-06-10 03:30:56 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/c/coreutils/gnu-coreutils_9.7-3ubuntu2_arm64.deb [1298910/1298910] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/gnu-coreutils_9.7-3ubuntu2_arm64.deb" [1]
+2026-06-10 03:30:56 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/g/gnupg2/gpgv_2.4.8-4ubuntu3_arm64.deb [153336/153336] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/gpgv_2.4.8-4ubuntu3_arm64.deb" [1]
+2026-06-10 03:30:57 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/g/grep/grep_3.12-1_arm64.deb [168522/168522] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/grep_3.12-1_arm64.deb" [1]
+2026-06-10 03:30:58 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/g/gzip/gzip_1.14-1~exp2ubuntu1_arm64.deb [101540/101540] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/gzip_1.14-1~exp2ubuntu1_arm64.deb" [1]
+2026-06-10 03:30:58 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/h/hostname/hostname_3.25build1_arm64.deb [11168/11168] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/hostname_3.25build1_arm64.deb" [1]
+2026-06-10 03:30:59 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/i/init-system-helpers/init-system-helpers_1.69_all.deb [39536/39536] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/init-system-helpers_1.69_all.deb" [1]
+2026-06-10 03:30:59 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/a/acl/libacl1_2.3.2-2_arm64.deb [17090/17090] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libacl1_2.3.2-2_arm64.deb" [1]
+2026-06-10 03:31:00 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/a/apt/libapt-pkg7.0_3.2.0_arm64.deb [1054130/1054130] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libapt-pkg7.0_3.2.0_arm64.deb" [1]
+2026-06-10 03:31:00 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/a/attr/libattr1_2.5.2-4_arm64.deb [11476/11476] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libattr1_1%3a2.5.2-4_arm64.deb" [1]
+2026-06-10 03:31:00 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/a/audit/libaudit-common_4.1.2-1build1_all.deb [4804/4804] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libaudit-common_1%3a4.1.2-1build1_all.deb" [1]
+2026-06-10 03:31:01 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/a/audit/libaudit1_4.1.2-1build1_arm64.deb [56406/56406] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libaudit1_1%3a4.1.2-1build1_arm64.deb" [1]
+2026-06-10 03:31:01 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/u/util-linux/libblkid1_2.41.3-3ubuntu2_arm64.deb [123690/123690] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libblkid1_2.41.3-3ubuntu2_arm64.deb" [1]
+2026-06-10 03:31:01 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/libb/libbsd/libbsd0_0.12.2-2build2_arm64.deb [41882/41882] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libbsd0_0.12.2-2build2_arm64.deb" [1]
+2026-06-10 03:31:02 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/b/bzip2/libbz2-1.0_1.0.8-6build2_arm64.deb [34914/34914] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libbz2-1.0_1.0.8-6build2_arm64.deb" [1]
+2026-06-10 03:31:03 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/g/glibc/libc-bin_2.43-2ubuntu2_arm64.deb [597434/597434] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libc-bin_2.43-2ubuntu2_arm64.deb" [1]
+2026-06-10 03:31:04 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/g/glibc/libc-gconv-modules-extra_2.43-2ubuntu2_arm64.deb [1382484/1382484] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libc-gconv-modules-extra_2.43-2ubuntu2_arm64.deb" [1]
+2026-06-10 03:31:05 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/g/glibc/libc6_2.43-2ubuntu2_arm64.deb [1641006/1641006] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libc6_2.43-2ubuntu2_arm64.deb" [1]
+2026-06-10 03:31:05 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/libc/libcap-ng/libcap-ng0_0.8.5-4build5_arm64.deb [14088/14088] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libcap-ng0_0.8.5-4build5_arm64.deb" [1]
+2026-06-10 03:31:06 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/e/e2fsprogs/libcom-err2_1.47.2-3ubuntu4_arm64.deb [27394/27394] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libcom-err2_1.47.2-3ubuntu4_arm64.deb" [1]
+2026-06-10 03:31:06 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/libx/libxcrypt/libcrypt1_4.5.1-1_arm64.deb [88276/88276] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libcrypt1_1%3a4.5.1-1_arm64.deb" [1]
+2026-06-10 03:31:07 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/d/db5.3/libdb5.3t64_5.3.28+dfsg2-10ubuntu1_arm64.deb [735326/735326] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libdb5.3t64_5.3.28+dfsg2-10ubuntu1_arm64.deb" [1]
+2026-06-10 03:31:07 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/c/cdebconf/libdebconfclient0_0.280ubuntu1_arm64.deb [12110/12110] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libdebconfclient0_0.280ubuntu1_arm64.deb" [1]
+2026-06-10 03:31:08 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/e/e2fsprogs/libext2fs2t64_1.47.2-3ubuntu4_arm64.deb [231636/231636] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libext2fs2t64_1.47.2-3ubuntu4_arm64.deb" [1]
+2026-06-10 03:31:08 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/g/gcc-16/libgcc-s1_16-20260322-1ubuntu1_arm64.deb [61034/61034] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libgcc-s1_16-20260322-1ubuntu1_arm64.deb" [1]
+2026-06-10 03:31:09 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/libg/libgcrypt20/libgcrypt20_1.12.0-2_arm64.deb [575054/575054] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libgcrypt20_1.12.0-2_arm64.deb" [1]
+2026-06-10 03:31:10 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/g/gmp/libgmp10_6.3.0+dfsg-5ubuntu2_arm64.deb [258028/258028] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libgmp10_2%3a6.3.0+dfsg-5ubuntu2_arm64.deb" [1]
+2026-06-10 03:31:10 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/libg/libgpg-error/libgpg-error0_1.58-2_arm64.deb [81944/81944] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libgpg-error0_1.58-2_arm64.deb" [1]
+2026-06-10 03:31:11 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/l/lz4/liblz4-1_1.10.0-8_arm64.deb [75098/75098] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/liblz4-1_1.10.0-8_arm64.deb" [1]
+2026-06-10 03:31:11 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/x/xz-utils/liblzma5_5.8.3-1_arm64.deb [144056/144056] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/liblzma5_5.8.3-1_arm64.deb" [1]
+2026-06-10 03:31:11 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/libm/libmd/libmd0_1.1.0-2build4_arm64.deb [23656/23656] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libmd0_1.1.0-2build4_arm64.deb" [1]
+2026-06-10 03:31:12 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/u/util-linux/libmount1_2.41.3-3ubuntu2_arm64.deb [155696/155696] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libmount1_2.41.3-3ubuntu2_arm64.deb" [1]
+2026-06-10 03:31:12 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/n/ncurses/libncursesw6_6.6+20251231-1_arm64.deb [146774/146774] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libncursesw6_6.6+20251231-1_arm64.deb" [1]
+2026-06-10 03:31:13 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/p/pam/libpam-modules_1.7.0-5ubuntu3_arm64.deb [190506/190506] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libpam-modules_1.7.0-5ubuntu3_arm64.deb" [1]
+2026-06-10 03:31:13 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/p/pam/libpam-modules-bin_1.7.0-5ubuntu3_arm64.deb [43580/43580] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libpam-modules-bin_1.7.0-5ubuntu3_arm64.deb" [1]
+2026-06-10 03:31:14 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/p/pam/libpam-runtime_1.7.0-5ubuntu3_all.deb [148548/148548] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libpam-runtime_1.7.0-5ubuntu3_all.deb" [1]
+2026-06-10 03:31:14 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/p/pam/libpam0g_1.7.0-5ubuntu3_arm64.deb [69546/69546] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libpam0g_1.7.0-5ubuntu3_arm64.deb" [1]
+2026-06-10 03:31:15 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/p/pcre2/libpcre2-8-0_10.46-1build1_arm64.deb [236688/236688] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libpcre2-8-0_10.46-1build1_arm64.deb" [1]
+2026-06-10 03:31:15 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/p/procps/libproc2-0_4.0.4-9ubuntu1_arm64.deb [59452/59452] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libproc2-0_2%3a4.0.4-9ubuntu1_arm64.deb" [1]
+2026-06-10 03:31:16 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/libs/libseccomp/libseccomp2_2.6.0-2ubuntu5_arm64.deb [53270/53270] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libseccomp2_2.6.0-2ubuntu5_arm64.deb" [1]
+2026-06-10 03:31:16 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/libs/libselinux/libselinux1_3.9-4build1_arm64.deb [90934/90934] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libselinux1_3.9-4build1_arm64.deb" [1]
+2026-06-10 03:31:16 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/libs/libsemanage/libsemanage-common_3.9-1build1_all.deb [6828/6828] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libsemanage-common_3.9-1build1_all.deb" [1]
+2026-06-10 03:31:17 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/libs/libsemanage/libsemanage2_3.9-1build1_arm64.deb [95198/95198] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libsemanage2_3.9-1build1_arm64.deb" [1]
+2026-06-10 03:31:18 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/libs/libsepol/libsepol2_3.9-2_arm64.deb [304712/304712] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libsepol2_3.9-2_arm64.deb" [1]
+2026-06-10 03:31:18 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/u/util-linux/libsmartcols1_2.41.3-3ubuntu2_arm64.deb [83204/83204] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libsmartcols1_2.41.3-3ubuntu2_arm64.deb" [1]
+2026-06-10 03:31:19 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/e/e2fsprogs/libss2_1.47.2-3ubuntu4_arm64.deb [17418/17418] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libss2_1.47.2-3ubuntu4_arm64.deb" [1]
+2026-06-10 03:31:25 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/o/openssl/libssl3t64_3.5.5-1ubuntu3_arm64.deb [2760988/2760988] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libssl3t64_3.5.5-1ubuntu3_arm64.deb" [1]
+2026-06-10 03:31:26 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/g/gcc-16/libstdc++6_16-20260322-1ubuntu1_arm64.deb [766458/766458] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libstdc++6_16-20260322-1ubuntu1_arm64.deb" [1]
+2026-06-10 03:31:26 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/s/systemd/libsystemd0_259.5-0ubuntu3_arm64.deb [468610/468610] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libsystemd0_259.5-0ubuntu3_arm64.deb" [1]
+2026-06-10 03:31:27 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/n/ncurses/libtinfo6_6.6+20251231-1_arm64.deb [107766/107766] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libtinfo6_6.6+20251231-1_arm64.deb" [1]
+2026-06-10 03:31:27 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/s/systemd/libudev1_259.5-0ubuntu3_arm64.deb [145888/145888] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libudev1_259.5-0ubuntu3_arm64.deb" [1]
+2026-06-10 03:31:28 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/u/util-linux/libuuid1_2.41.3-3ubuntu2_arm64.deb [35704/35704] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libuuid1_2.41.3-3ubuntu2_arm64.deb" [1]
+2026-06-10 03:31:28 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/x/xxhash/libxxhash0_0.8.3-2build1_arm64.deb [21674/21674] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libxxhash0_0.8.3-2build1_arm64.deb" [1]
+2026-06-10 03:31:29 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/libz/libzstd/libzstd1_1.5.7+dfsg-3_arm64.deb [277154/277154] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/libzstd1_1.5.7+dfsg-3_arm64.deb" [1]
+2026-06-10 03:31:29 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/u/util-linux/login_4.16.0-2+really2.41.3-3ubuntu2_arm64.deb [85208/85208] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/login_1%3a4.16.0-2+really2.41.3-3ubuntu2_arm64.deb" [1]
+2026-06-10 03:31:30 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/s/shadow/login.defs_4.17.4-2ubuntu3_all.deb [65080/65080] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/login.defs_1%3a4.17.4-2ubuntu3_all.deb" [1]
+2026-06-10 03:31:30 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/e/e2fsprogs/logsave_1.47.2-3ubuntu4_arm64.deb [27132/27132] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/logsave_1.47.2-3ubuntu4_arm64.deb" [1]
+2026-06-10 03:31:30 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/m/mawk/mawk_1.3.4.20260129-1_arm64.deb [128396/128396] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/mawk_1.3.4.20260129-1_arm64.deb" [1]
+2026-06-10 03:31:31 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/u/util-linux/mount_2.41.3-3ubuntu2_arm64.deb [133914/133914] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/mount_2.41.3-3ubuntu2_arm64.deb" [1]
+2026-06-10 03:31:31 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/n/ncurses/ncurses-base_6.6+20251231-1_all.deb [26272/26272] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/ncurses-base_6.6+20251231-1_all.deb" [1]
+2026-06-10 03:31:32 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/n/ncurses/ncurses-bin_6.6+20251231-1_arm64.deb [189522/189522] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/ncurses-bin_6.6+20251231-1_arm64.deb" [1]
+2026-06-10 03:31:32 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/o/openssl/openssl-provider-legacy_3.5.5-1ubuntu3_arm64.deb [38416/38416] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/openssl-provider-legacy_3.5.5-1ubuntu3_arm64.deb" [1]
+2026-06-10 03:31:33 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/s/shadow/passwd_4.17.4-2ubuntu3_arm64.deb [1118320/1118320] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/passwd_1%3a4.17.4-2ubuntu3_arm64.deb" [1]
+2026-06-10 03:31:35 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/p/perl/perl-base_5.40.1-7build1_arm64.deb [1786000/1786000] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/perl-base_5.40.1-7build1_arm64.deb" [1]
+2026-06-10 03:31:36 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/p/procps/procps_4.0.4-9ubuntu1_arm64.deb [706618/706618] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/procps_2%3a4.0.4-9ubuntu1_arm64.deb" [1]
+2026-06-10 03:31:39 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/r/rust-coreutils/rust-coreutils_0.8.0-0ubuntu3_arm64.deb [4198660/4198660] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/rust-coreutils_0.8.0-0ubuntu3_arm64.deb" [1]
+2026-06-10 03:31:39 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/s/sed/sed_4.9-2build3_arm64.deb [192730/192730] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/sed_4.9-2build3_arm64.deb" [1]
+2026-06-10 03:31:39 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/s/sensible-utils/sensible-utils_0.0.26build1_all.deb [27060/27060] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/sensible-utils_0.0.26build1_all.deb" [1]
+2026-06-10 03:31:40 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/s/sysvinit/sysvinit-utils_3.15-5ubuntu1_arm64.deb [36806/36806] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/sysvinit-utils_3.15-5ubuntu1_arm64.deb" [1]
+2026-06-10 03:31:40 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/t/tar/tar_1.35+dfsg-4_arm64.deb [250870/250870] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/tar_1.35+dfsg-4_arm64.deb" [1]
+2026-06-10 03:31:41 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/u/ubuntu-keyring/ubuntu-keyring_2023.11.28.1build1_all.deb [11228/11228] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/ubuntu-keyring_2023.11.28.1build1_all.deb" [1]
+2026-06-10 03:31:42 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/u/util-linux/util-linux_2.41.3-3ubuntu2_arm64.deb [1054182/1054182] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/util-linux_2.41.3-3ubuntu2_arm64.deb" [1]
+2026-06-10 03:31:42 URL:http://ports.ubuntu.com/ubuntu-ports/pool/main/z/zlib/zlib1g_1.3.dfsg+really1.3.1-1ubuntu3_arm64.deb [63806/63806] -> "/home/buildd/rockcraft-ubuntu-79fcbede9d5522fcffb04b46daf93b5a/parts/chroot/build/chroot//var/cache/apt/archives/partial/zlib1g_1%3a1.3.dfsg+really1.3.1-1ubuntu3_arm64.deb" [1]
+dpkg: warning: parsing file '/var/lib/dpkg/status' near line 5 package 'dpkg':
+ missing 'Description' field
+dpkg: warning: parsing file '/var/lib/dpkg/status' near line 5 package 'dpkg':
+ missing 'Architecture' field
+Selecting previously unselected package base-passwd.
+(Reading database ... 0 files and directories currently installed.)
+Preparing to unpack .../base-passwd_3.6.8_arm64.deb ...
+Unpacking base-passwd (3.6.8) ...
+dpkg: base-passwd: dependency problems, but configuring anyway as you requested:
+ base-passwd depends on libc6 (>= 2.34); however:
+  Package libc6 is not installed.
+ base-passwd depends on libdebconfclient0 (>= 0.145); however:
+  Package libdebconfclient0 is not installed.
+ base-passwd depends on libselinux1 (>= 3.1~); however:
+  Package libselinux1 is not installed.
+
+Setting up base-passwd (3.6.8) ...
+dpkg: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Description' field
+dpkg: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Architecture' field
+Selecting previously unselected package base-files.
+dpkg: regarding .../base-files_14ubuntu6_arm64.deb containing base-files, pre-dependency problem:
+ base-files pre-depends on awk
+  awk is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+(Reading database ... 44 files and directories currently installed.)
+Preparing to unpack .../base-files_14ubuntu6_arm64.deb ...
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Description' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Architecture' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Description' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Architecture' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Description' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Architecture' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Description' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Architecture' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Description' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Architecture' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Description' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Architecture' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Description' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Architecture' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Description' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Architecture' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Description' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Architecture' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Description' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Architecture' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Description' field
+dpkg-divert: warning: parsing file '/var/lib/dpkg/status' near line 25 package 'dpkg':
+ missing 'Architecture' field
+Unpacking base-files (14ubuntu6) ...
+dpkg: base-files: dependency problems, but configuring anyway as you requested:
+ base-files depends on awk; however:
+  Package awk is not installed.
+ base-files depends on libc6 (>= 2.34); however:
+  Package libc6 is not installed.
+ base-files depends on libcrypt1 (>= 1:4.4.10-10ubuntu3); however:
+  Package libcrypt1 is not installed.
+
+Setting up base-files (14ubuntu6) ...
+dpkg: warning: parsing file '/var/lib/dpkg/status' near line 60 package 'dpkg':
+ missing 'Description' field
+dpkg: warning: parsing file '/var/lib/dpkg/status' near line 60 package 'dpkg':
+ missing 'Architecture' field
+dpkg: regarding .../dpkg_1.23.7ubuntu1_arm64.deb containing dpkg, pre-dependency problem:
+ dpkg pre-depends on libbz2-1.0
+  libbz2-1.0 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../dpkg_1.23.7ubuntu1_arm64.deb containing dpkg, pre-dependency problem:
+ dpkg pre-depends on libc6 (>= 2.38)
+  libc6 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../dpkg_1.23.7ubuntu1_arm64.deb containing dpkg, pre-dependency problem:
+ dpkg pre-depends on liblzma5 (>= 5.4.0)
+  liblzma5 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../dpkg_1.23.7ubuntu1_arm64.deb containing dpkg, pre-dependency problem:
+ dpkg pre-depends on libmd0 (>= 0.0.0)
+  libmd0 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../dpkg_1.23.7ubuntu1_arm64.deb containing dpkg, pre-dependency problem:
+ dpkg pre-depends on libselinux1 (>= 3.1~)
+  libselinux1 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../dpkg_1.23.7ubuntu1_arm64.deb containing dpkg, pre-dependency problem:
+ dpkg pre-depends on libzstd1 (>= 1.5.5)
+  libzstd1 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../dpkg_1.23.7ubuntu1_arm64.deb containing dpkg, pre-dependency problem:
+ dpkg pre-depends on zlib1g (>= 1:1.1.4)
+  zlib1g is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+(Reading database ... 162 files and directories currently installed.)
+Preparing to unpack .../dpkg_1.23.7ubuntu1_arm64.deb ...
+Unpacking dpkg (1.23.7ubuntu1) over (1.23.7ubuntu1) ...
+dpkg: dpkg: dependency problems, but configuring anyway as you requested:
+ dpkg depends on libbz2-1.0; however:
+  Package libbz2-1.0 is not installed.
+ dpkg depends on libc6 (>= 2.38); however:
+  Package libc6 is not installed.
+ dpkg depends on liblzma5 (>= 5.4.0); however:
+  Package liblzma5 is not installed.
+ dpkg depends on libmd0 (>= 0.0.0); however:
+  Package libmd0 is not installed.
+ dpkg depends on libselinux1 (>= 3.1~); however:
+  Package libselinux1 is not installed.
+ dpkg depends on libzstd1 (>= 1.5.5); however:
+  Package libzstd1 is not installed.
+ dpkg depends on zlib1g (>= 1:1.1.4); however:
+  Package zlib1g is not installed.
+ dpkg depends on tar (>= 1.28-1); however:
+  Package tar is not installed.
+
+Setting up dpkg (1.23.7ubuntu1) ...
+Selecting previously unselected package libc6:arm64.
+(Reading database ... 441 files and directories currently installed.)
+Preparing to unpack .../libc6_2.43-2ubuntu2_arm64.deb ...
+Unpacking libc6:arm64 (2.43-2ubuntu2) ...
+dpkg: libc6:arm64: dependency problems, but configuring anyway as you requested:
+ libc6:arm64 depends on libgcc-s1; however:
+  Package libgcc-s1 is not installed.
+ libc6:arm64 depends on libc-gconv-modules-extra (= 2.43-2ubuntu2); however:
+  Package libc-gconv-modules-extra is not installed.
+
+Setting up libc6:arm64 (2.43-2ubuntu2) ...
+Selecting previously unselected package perl-base.
+dpkg: regarding .../perl-base_5.40.1-7build1_arm64.deb containing perl-base, pre-dependency problem:
+ perl-base pre-depends on libcrypt1 (>= 1:4.1.0)
+  libcrypt1 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+(Reading database ... 486 files and directories currently installed.)
+Preparing to unpack .../perl-base_5.40.1-7build1_arm64.deb ...
+Unpacking perl-base (5.40.1-7build1) ...
+dpkg: perl-base: dependency problems, but configuring anyway as you requested:
+ perl-base depends on libcrypt1 (>= 1:4.1.0); however:
+  Package libcrypt1 is not installed.
+
+Setting up perl-base (5.40.1-7build1) ...
+Selecting previously unselected package mawk.
+(Reading database ... 1218 files and directories currently installed.)
+Preparing to unpack .../mawk_1.3.4.20260129-1_arm64.deb ...
+Unpacking mawk (1.3.4.20260129-1) ...
+Setting up mawk (1.3.4.20260129-1) ...
+update-alternatives: using /usr/bin/mawk to provide /usr/bin/awk (awk) in auto mode
+(Reading database ... 1239 files and directories currently installed.)
+Preparing to unpack .../base-files_14ubuntu6_arm64.deb ...
+Unpacking base-files (14ubuntu6) over (14ubuntu6) ...
+Preparing to unpack .../base-passwd_3.6.8_arm64.deb ...
+Unpacking base-passwd (3.6.8) over (3.6.8) ...
+Selecting previously unselected package bash.
+dpkg: regarding .../bash_5.3-2ubuntu1_arm64.deb containing bash, pre-dependency problem:
+ bash pre-depends on libtinfo6 (>= 6)
+  libtinfo6 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../bash_5.3-2ubuntu1_arm64.deb ...
+Unpacking bash (5.3-2ubuntu1) ...
+Selecting previously unselected package bsdutils.
+Preparing to unpack .../bsdutils_1%3a2.41.3-3ubuntu2_arm64.deb ...
+Unpacking bsdutils (1:2.41.3-3ubuntu2) ...
+Selecting previously unselected package coreutils.
+dpkg: regarding .../coreutils_9.5-1ubuntu2+0.0.0~ubuntu25_all.deb containing coreutils, pre-dependency problem:
+ coreutils pre-depends on coreutils-from-uutils | coreutils-from-gnu
+  coreutils-from-uutils is not installed.
+  coreutils-from-gnu is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../coreutils_9.5-1ubuntu2+0.0.0~ubuntu25_all.deb ...
+Unpacking coreutils (9.5-1ubuntu2+0.0.0~ubuntu25) ...
+Selecting previously unselected package coreutils-from-uutils.
+dpkg: regarding .../coreutils-from-uutils_0.0.0~ubuntu25_all.deb containing coreutils-from-uutils, pre-dependency problem:
+ coreutils-from-uutils pre-depends on rust-coreutils (>> 0.1.0+git20250813)
+  rust-coreutils is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../coreutils-from-uutils_0.0.0~ubuntu25_all.deb containing coreutils-from-uutils, pre-dependency problem:
+ coreutils-from-uutils pre-depends on gnu-coreutils
+  gnu-coreutils is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../coreutils-from-uutils_0.0.0~ubuntu25_all.deb ...
+No diversion 'diversion of /usr/bin/[ to /usr/bin/[.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/arch to /usr/bin/arch.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/b2sum to /usr/bin/b2sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/base32 to /usr/bin/base32.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/base64 to /usr/bin/base64.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/basename to /usr/bin/basename.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/basenc to /usr/bin/basenc.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/cat to /usr/bin/cat.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/chcon to /usr/bin/chcon.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/chgrp to /usr/bin/chgrp.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/chmod to /usr/bin/chmod.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/chown to /usr/bin/chown.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/chroot to /usr/bin/chroot.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/cksum to /usr/bin/cksum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/comm to /usr/bin/comm.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/cp to /usr/bin/cp.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/csplit to /usr/bin/csplit.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/cut to /usr/bin/cut.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/date to /usr/bin/date.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/dd to /usr/bin/dd.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/df to /usr/bin/df.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/dir to /usr/bin/dir.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/dircolors to /usr/bin/dircolors.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/dirname to /usr/bin/dirname.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/du to /usr/bin/du.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/echo to /usr/bin/echo.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/env to /usr/bin/env.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/expand to /usr/bin/expand.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/expr to /usr/bin/expr.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/factor to /usr/bin/factor.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/false to /usr/bin/false.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/fmt to /usr/bin/fmt.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/fold to /usr/bin/fold.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/groups to /usr/bin/groups.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/hashsum to /usr/bin/hashsum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/head to /usr/bin/head.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/hostid to /usr/bin/hostid.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/id to /usr/bin/id.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/install to /usr/bin/install.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/join to /usr/bin/join.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/link to /usr/bin/link.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/ln to /usr/bin/ln.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/logname to /usr/bin/logname.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/ls to /usr/bin/ls.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/md5sum to /usr/bin/md5sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/mkdir to /usr/bin/mkdir.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/mkfifo to /usr/bin/mkfifo.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/mknod to /usr/bin/mknod.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/mktemp to /usr/bin/mktemp.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/mv to /usr/bin/mv.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/nice to /usr/bin/nice.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/nl to /usr/bin/nl.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/nohup to /usr/bin/nohup.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/nproc to /usr/bin/nproc.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/numfmt to /usr/bin/numfmt.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/od to /usr/bin/od.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/paste to /usr/bin/paste.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/pathchk to /usr/bin/pathchk.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/pinky to /usr/bin/pinky.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/pr to /usr/bin/pr.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/printenv to /usr/bin/printenv.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/printf to /usr/bin/printf.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/ptx to /usr/bin/ptx.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/pwd to /usr/bin/pwd.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/readlink to /usr/bin/readlink.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/realpath to /usr/bin/realpath.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/rm to /usr/bin/rm.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/rmdir to /usr/bin/rmdir.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/runcon to /usr/bin/runcon.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/seq to /usr/bin/seq.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/sha1sum to /usr/bin/sha1sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/sha224sum to /usr/bin/sha224sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/sha256sum to /usr/bin/sha256sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/sha3-224sum to /usr/bin/sha3-224sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/sha3-256sum to /usr/bin/sha3-256sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/sha3-384sum to /usr/bin/sha3-384sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/sha3-512sum to /usr/bin/sha3-512sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/sha384sum to /usr/bin/sha384sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/sha3sum to /usr/bin/sha3sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/sha512sum to /usr/bin/sha512sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/shake128sum to /usr/bin/shake128sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/shake256sum to /usr/bin/shake256sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/shred to /usr/bin/shred.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/shuf to /usr/bin/shuf.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/sleep to /usr/bin/sleep.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/sort to /usr/bin/sort.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/split to /usr/bin/split.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/stat to /usr/bin/stat.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/stdbuf to /usr/bin/stdbuf.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/stty to /usr/bin/stty.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/sum to /usr/bin/sum.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/sync to /usr/bin/sync.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/tac to /usr/bin/tac.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/tail to /usr/bin/tail.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/tee to /usr/bin/tee.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/test to /usr/bin/test.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/timeout to /usr/bin/timeout.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/touch to /usr/bin/touch.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/tr to /usr/bin/tr.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/true to /usr/bin/true.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/truncate to /usr/bin/truncate.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/tsort to /usr/bin/tsort.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/tty to /usr/bin/tty.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/uname to /usr/bin/uname.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/unexpand to /usr/bin/unexpand.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/uniq to /usr/bin/uniq.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/unlink to /usr/bin/unlink.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/users to /usr/bin/users.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/vdir to /usr/bin/vdir.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/wc to /usr/bin/wc.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/who to /usr/bin/who.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/whoami to /usr/bin/whoami.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/bin/yes to /usr/bin/yes.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/arch.1.gz to /usr/share/man/man1/arch.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/base32.1.gz to /usr/share/man/man1/base32.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/base64.1.gz to /usr/share/man/man1/base64.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/basename.1.gz to /usr/share/man/man1/basename.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/basenc.1.gz to /usr/share/man/man1/basenc.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/cat.1.gz to /usr/share/man/man1/cat.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/chcon.1.gz to /usr/share/man/man1/chcon.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/chgrp.1.gz to /usr/share/man/man1/chgrp.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/chmod.1.gz to /usr/share/man/man1/chmod.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/chown.1.gz to /usr/share/man/man1/chown.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/chroot.1.gz to /usr/share/man/man1/chroot.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/cksum.1.gz to /usr/share/man/man1/cksum.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/comm.1.gz to /usr/share/man/man1/comm.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/coreutils.1.gz to /usr/share/man/man1/coreutils.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/cp.1.gz to /usr/share/man/man1/cp.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/csplit.1.gz to /usr/share/man/man1/csplit.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/cut.1.gz to /usr/share/man/man1/cut.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/date.1.gz to /usr/share/man/man1/date.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/dd.1.gz to /usr/share/man/man1/dd.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/df.1.gz to /usr/share/man/man1/df.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/dir.1.gz to /usr/share/man/man1/dir.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/dircolors.1.gz to /usr/share/man/man1/dircolors.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/dirname.1.gz to /usr/share/man/man1/dirname.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/du.1.gz to /usr/share/man/man1/du.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/echo.1.gz to /usr/share/man/man1/echo.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/env.1.gz to /usr/share/man/man1/env.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/expand.1.gz to /usr/share/man/man1/expand.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/expr.1.gz to /usr/share/man/man1/expr.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/factor.1.gz to /usr/share/man/man1/factor.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/false.1.gz to /usr/share/man/man1/false.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/fmt.1.gz to /usr/share/man/man1/fmt.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/fold.1.gz to /usr/share/man/man1/fold.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/groups.1.gz to /usr/share/man/man1/groups.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/hashsum.1.gz to /usr/share/man/man1/hashsum.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/head.1.gz to /usr/share/man/man1/head.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/hostid.1.gz to /usr/share/man/man1/hostid.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/id.1.gz to /usr/share/man/man1/id.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/install.1.gz to /usr/share/man/man1/install.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/join.1.gz to /usr/share/man/man1/join.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/link.1.gz to /usr/share/man/man1/link.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/ln.1.gz to /usr/share/man/man1/ln.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/logname.1.gz to /usr/share/man/man1/logname.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/ls.1.gz to /usr/share/man/man1/ls.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/mkdir.1.gz to /usr/share/man/man1/mkdir.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/mkfifo.1.gz to /usr/share/man/man1/mkfifo.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/mknod.1.gz to /usr/share/man/man1/mknod.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/mktemp.1.gz to /usr/share/man/man1/mktemp.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/mv.1.gz to /usr/share/man/man1/mv.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/nice.1.gz to /usr/share/man/man1/nice.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/nl.1.gz to /usr/share/man/man1/nl.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/nohup.1.gz to /usr/share/man/man1/nohup.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/nproc.1.gz to /usr/share/man/man1/nproc.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/numfmt.1.gz to /usr/share/man/man1/numfmt.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/od.1.gz to /usr/share/man/man1/od.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/paste.1.gz to /usr/share/man/man1/paste.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/pathchk.1.gz to /usr/share/man/man1/pathchk.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/pinky.1.gz to /usr/share/man/man1/pinky.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/pr.1.gz to /usr/share/man/man1/pr.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/printenv.1.gz to /usr/share/man/man1/printenv.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/printf.1.gz to /usr/share/man/man1/printf.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/ptx.1.gz to /usr/share/man/man1/ptx.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/pwd.1.gz to /usr/share/man/man1/pwd.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/readlink.1.gz to /usr/share/man/man1/readlink.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/realpath.1.gz to /usr/share/man/man1/realpath.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/rm.1.gz to /usr/share/man/man1/rm.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/rmdir.1.gz to /usr/share/man/man1/rmdir.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/runcon.1.gz to /usr/share/man/man1/runcon.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/seq.1.gz to /usr/share/man/man1/seq.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/shred.1.gz to /usr/share/man/man1/shred.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/shuf.1.gz to /usr/share/man/man1/shuf.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/sleep.1.gz to /usr/share/man/man1/sleep.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/sort.1.gz to /usr/share/man/man1/sort.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/split.1.gz to /usr/share/man/man1/split.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/stat.1.gz to /usr/share/man/man1/stat.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/stdbuf.1.gz to /usr/share/man/man1/stdbuf.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/stty.1.gz to /usr/share/man/man1/stty.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/sum.1.gz to /usr/share/man/man1/sum.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/sync.1.gz to /usr/share/man/man1/sync.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/tac.1.gz to /usr/share/man/man1/tac.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/tail.1.gz to /usr/share/man/man1/tail.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/tee.1.gz to /usr/share/man/man1/tee.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/test.1.gz to /usr/share/man/man1/test.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/timeout.1.gz to /usr/share/man/man1/timeout.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/touch.1.gz to /usr/share/man/man1/touch.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/tr.1.gz to /usr/share/man/man1/tr.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/true.1.gz to /usr/share/man/man1/true.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/truncate.1.gz to /usr/share/man/man1/truncate.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/tsort.1.gz to /usr/share/man/man1/tsort.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/tty.1.gz to /usr/share/man/man1/tty.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/uname.1.gz to /usr/share/man/man1/uname.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/unexpand.1.gz to /usr/share/man/man1/unexpand.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/uniq.1.gz to /usr/share/man/man1/uniq.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/unlink.1.gz to /usr/share/man/man1/unlink.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/users.1.gz to /usr/share/man/man1/users.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/vdir.1.gz to /usr/share/man/man1/vdir.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/wc.1.gz to /usr/share/man/man1/wc.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/who.1.gz to /usr/share/man/man1/who.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/whoami.1.gz to /usr/share/man/man1/whoami.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/yes.1.gz to /usr/share/man/man1/yes.1.gz.remove-bak by coreutils-switch', none removed.
+No diversion 'diversion of /usr/share/man/man1/[.1.gz to /usr/share/man/man1/[.1.gz.remove-bak by coreutils-switch', none removed.
+Unpacking coreutils-from-uutils (0.0.0~ubuntu25) ...
+Selecting previously unselected package dash.
+Preparing to unpack .../dash_0.5.12-12ubuntu3_arm64.deb ...
+Unpacking dash (0.5.12-12ubuntu3) ...
+Selecting previously unselected package debconf.
+Preparing to unpack .../debconf_1.5.92_all.deb ...
+Unpacking debconf (1.5.92) ...
+Selecting previously unselected package debianutils.
+Preparing to unpack .../debianutils_5.23.2build1_arm64.deb ...
+Unpacking debianutils (5.23.2build1) ...
+Selecting previously unselected package diffutils.
+Preparing to unpack .../diffutils_1%3a3.12-1_arm64.deb ...
+Unpacking diffutils (1:3.12-1) ...
+dpkg: regarding .../dpkg_1.23.7ubuntu1_arm64.deb containing dpkg, pre-dependency problem:
+ dpkg pre-depends on libbz2-1.0
+  libbz2-1.0 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../dpkg_1.23.7ubuntu1_arm64.deb containing dpkg, pre-dependency problem:
+ dpkg pre-depends on liblzma5 (>= 5.4.0)
+  liblzma5 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../dpkg_1.23.7ubuntu1_arm64.deb containing dpkg, pre-dependency problem:
+ dpkg pre-depends on libmd0 (>= 0.0.0)
+  libmd0 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../dpkg_1.23.7ubuntu1_arm64.deb containing dpkg, pre-dependency problem:
+ dpkg pre-depends on libselinux1 (>= 3.1~)
+  libselinux1 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../dpkg_1.23.7ubuntu1_arm64.deb containing dpkg, pre-dependency problem:
+ dpkg pre-depends on libzstd1 (>= 1.5.5)
+  libzstd1 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../dpkg_1.23.7ubuntu1_arm64.deb containing dpkg, pre-dependency problem:
+ dpkg pre-depends on zlib1g (>= 1:1.1.4)
+  zlib1g is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../dpkg_1.23.7ubuntu1_arm64.deb ...
+Unpacking dpkg (1.23.7ubuntu1) over (1.23.7ubuntu1) ...
+Selecting previously unselected package e2fsprogs.
+dpkg: regarding .../e2fsprogs_1.47.2-3ubuntu4_arm64.deb containing e2fsprogs, pre-dependency problem:
+ e2fsprogs pre-depends on libblkid1 (>= 2.36)
+  libblkid1 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../e2fsprogs_1.47.2-3ubuntu4_arm64.deb containing e2fsprogs, pre-dependency problem:
+ e2fsprogs pre-depends on libcom-err2 (>= 1.43.9)
+  libcom-err2 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../e2fsprogs_1.47.2-3ubuntu4_arm64.deb containing e2fsprogs, pre-dependency problem:
+ e2fsprogs pre-depends on libext2fs2t64 (= 1.47.2-3ubuntu4)
+  libext2fs2t64 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../e2fsprogs_1.47.2-3ubuntu4_arm64.deb containing e2fsprogs, pre-dependency problem:
+ e2fsprogs pre-depends on libss2 (>= 1.38)
+  libss2 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../e2fsprogs_1.47.2-3ubuntu4_arm64.deb containing e2fsprogs, pre-dependency problem:
+ e2fsprogs pre-depends on libuuid1 (>= 2.16)
+  libuuid1 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../e2fsprogs_1.47.2-3ubuntu4_arm64.deb ...
+Unpacking e2fsprogs (1.47.2-3ubuntu4) ...
+Selecting previously unselected package findutils.
+dpkg: regarding .../findutils_4.10.0-3build2_arm64.deb containing findutils, pre-dependency problem:
+ findutils pre-depends on libselinux1 (>= 3.1~)
+  libselinux1 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../findutils_4.10.0-3build2_arm64.deb ...
+Unpacking findutils (4.10.0-3build2) ...
+Selecting previously unselected package gcc-16-base:arm64.
+Preparing to unpack .../gcc-16-base_16-20260322-1ubuntu1_arm64.deb ...
+Unpacking gcc-16-base:arm64 (16-20260322-1ubuntu1) ...
+Selecting previously unselected package gnu-coreutils.
+dpkg: regarding .../gnu-coreutils_9.7-3ubuntu2_arm64.deb containing gnu-coreutils, pre-dependency problem:
+ gnu-coreutils pre-depends on libacl1 (>= 2.2.23)
+  libacl1 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../gnu-coreutils_9.7-3ubuntu2_arm64.deb containing gnu-coreutils, pre-dependency problem:
+ gnu-coreutils pre-depends on libattr1 (>= 1:2.4.48)
+  libattr1 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../gnu-coreutils_9.7-3ubuntu2_arm64.deb containing gnu-coreutils, pre-dependency problem:
+ gnu-coreutils pre-depends on libgmp10 (>= 2:6.3.0+dfsg)
+  libgmp10 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../gnu-coreutils_9.7-3ubuntu2_arm64.deb containing gnu-coreutils, pre-dependency problem:
+ gnu-coreutils pre-depends on libselinux1 (>= 3.1~)
+  libselinux1 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../gnu-coreutils_9.7-3ubuntu2_arm64.deb containing gnu-coreutils, pre-dependency problem:
+ gnu-coreutils pre-depends on libssl3t64 (>= 3.0.0)
+  libssl3t64 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../gnu-coreutils_9.7-3ubuntu2_arm64.deb containing gnu-coreutils, pre-dependency problem:
+ gnu-coreutils pre-depends on libsystemd0 (>= 254)
+  libsystemd0 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../gnu-coreutils_9.7-3ubuntu2_arm64.deb ...
+Unpacking gnu-coreutils (9.7-3ubuntu2) ...
+Selecting previously unselected package grep.
+dpkg: regarding .../archives/grep_3.12-1_arm64.deb containing grep, pre-dependency problem:
+ grep pre-depends on libpcre2-8-0 (>= 10.32)
+  libpcre2-8-0 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../archives/grep_3.12-1_arm64.deb ...
+Unpacking grep (3.12-1) ...
+Selecting previously unselected package gzip.
+Preparing to unpack .../gzip_1.14-1~exp2ubuntu1_arm64.deb ...
+Unpacking gzip (1.14-1~exp2ubuntu1) ...
+Selecting previously unselected package hostname.
+Preparing to unpack .../hostname_3.25build1_arm64.deb ...
+Unpacking hostname (3.25build1) ...
+Selecting previously unselected package init-system-helpers.
+Preparing to unpack .../init-system-helpers_1.69_all.deb ...
+Unpacking init-system-helpers (1.69) ...
+Selecting previously unselected package libacl1:arm64.
+Preparing to unpack .../libacl1_2.3.2-2_arm64.deb ...
+Unpacking libacl1:arm64 (2.3.2-2) ...
+Selecting previously unselected package libattr1:arm64.
+Preparing to unpack .../libattr1_1%3a2.5.2-4_arm64.deb ...
+Unpacking libattr1:arm64 (1:2.5.2-4) ...
+Selecting previously unselected package libaudit-common.
+Preparing to unpack .../libaudit-common_1%3a4.1.2-1build1_all.deb ...
+Unpacking libaudit-common (1:4.1.2-1build1) ...
+Selecting previously unselected package libaudit1:arm64.
+Preparing to unpack .../libaudit1_1%3a4.1.2-1build1_arm64.deb ...
+Unpacking libaudit1:arm64 (1:4.1.2-1build1) ...
+Selecting previously unselected package libblkid1:arm64.
+Preparing to unpack .../libblkid1_2.41.3-3ubuntu2_arm64.deb ...
+Unpacking libblkid1:arm64 (2.41.3-3ubuntu2) ...
+Selecting previously unselected package libbsd0:arm64.
+Preparing to unpack .../libbsd0_0.12.2-2build2_arm64.deb ...
+Unpacking libbsd0:arm64 (0.12.2-2build2) ...
+Selecting previously unselected package libbz2-1.0:arm64.
+Preparing to unpack .../libbz2-1.0_1.0.8-6build2_arm64.deb ...
+Unpacking libbz2-1.0:arm64 (1.0.8-6build2) ...
+Selecting previously unselected package libc-bin.
+Preparing to unpack .../libc-bin_2.43-2ubuntu2_arm64.deb ...
+Unpacking libc-bin (2.43-2ubuntu2) ...
+Selecting previously unselected package libc-gconv-modules-extra:arm64.
+Preparing to unpack .../libc-gconv-modules-extra_2.43-2ubuntu2_arm64.deb ...
+Unpacking libc-gconv-modules-extra:arm64 (2.43-2ubuntu2) ...
+Preparing to unpack .../libc6_2.43-2ubuntu2_arm64.deb ...
+Unpacking libc6:arm64 (2.43-2ubuntu2) over (2.43-2ubuntu2) ...
+Selecting previously unselected package libcap-ng0:arm64.
+Preparing to unpack .../libcap-ng0_0.8.5-4build5_arm64.deb ...
+Unpacking libcap-ng0:arm64 (0.8.5-4build5) ...
+Selecting previously unselected package libcom-err2:arm64.
+Preparing to unpack .../libcom-err2_1.47.2-3ubuntu4_arm64.deb ...
+Unpacking libcom-err2:arm64 (1.47.2-3ubuntu4) ...
+Selecting previously unselected package libcrypt1:arm64.
+Preparing to unpack .../libcrypt1_1%3a4.5.1-1_arm64.deb ...
+Unpacking libcrypt1:arm64 (1:4.5.1-1) ...
+Selecting previously unselected package libdb5.3t64:arm64.
+Preparing to unpack .../libdb5.3t64_5.3.28+dfsg2-10ubuntu1_arm64.deb ...
+Unpacking libdb5.3t64:arm64 (5.3.28+dfsg2-10ubuntu1) ...
+Selecting previously unselected package libdebconfclient0:arm64.
+Preparing to unpack .../libdebconfclient0_0.280ubuntu1_arm64.deb ...
+Unpacking libdebconfclient0:arm64 (0.280ubuntu1) ...
+Selecting previously unselected package libext2fs2t64:arm64.
+Preparing to unpack .../libext2fs2t64_1.47.2-3ubuntu4_arm64.deb ...
+Adding 'diversion of /lib/aarch64-linux-gnu/libe2p.so.2 to /lib/aarch64-linux-gnu/libe2p.so.2.usr-is-merged by libext2fs2t64'
+Adding 'diversion of /lib/aarch64-linux-gnu/libe2p.so.2.3 to /lib/aarch64-linux-gnu/libe2p.so.2.3.usr-is-merged by libext2fs2t64'
+Adding 'diversion of /lib/aarch64-linux-gnu/libext2fs.so.2 to /lib/aarch64-linux-gnu/libext2fs.so.2.usr-is-merged by libext2fs2t64'
+Adding 'diversion of /lib/aarch64-linux-gnu/libext2fs.so.2.4 to /lib/aarch64-linux-gnu/libext2fs.so.2.4.usr-is-merged by libext2fs2t64'
+Unpacking libext2fs2t64:arm64 (1.47.2-3ubuntu4) ...
+Selecting previously unselected package libgcc-s1:arm64.
+Preparing to unpack .../libgcc-s1_16-20260322-1ubuntu1_arm64.deb ...
+Unpacking libgcc-s1:arm64 (16-20260322-1ubuntu1) ...
+Selecting previously unselected package libgmp10:arm64.
+Preparing to unpack .../libgmp10_2%3a6.3.0+dfsg-5ubuntu2_arm64.deb ...
+Unpacking libgmp10:arm64 (2:6.3.0+dfsg-5ubuntu2) ...
+Selecting previously unselected package liblzma5:arm64.
+Preparing to unpack .../liblzma5_5.8.3-1_arm64.deb ...
+Unpacking liblzma5:arm64 (5.8.3-1) ...
+Selecting previously unselected package libmd0:arm64.
+Preparing to unpack .../libmd0_1.1.0-2build4_arm64.deb ...
+Unpacking libmd0:arm64 (1.1.0-2build4) ...
+Selecting previously unselected package libmount1:arm64.
+Preparing to unpack .../libmount1_2.41.3-3ubuntu2_arm64.deb ...
+Unpacking libmount1:arm64 (2.41.3-3ubuntu2) ...
+Selecting previously unselected package libncursesw6:arm64.
+Preparing to unpack .../libncursesw6_6.6+20251231-1_arm64.deb ...
+Unpacking libncursesw6:arm64 (6.6+20251231-1) ...
+Selecting previously unselected package libpam-modules:arm64.
+dpkg: regarding .../libpam-modules_1.7.0-5ubuntu3_arm64.deb containing libpam-modules:arm64, pre-dependency problem:
+ libpam-modules pre-depends on libaudit1 (>= 1:2.2.1)
+  libaudit1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../libpam-modules_1.7.0-5ubuntu3_arm64.deb containing libpam-modules:arm64, pre-dependency problem:
+ libpam-modules pre-depends on libcrypt1 (>= 1:4.3.0)
+  libcrypt1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../libpam-modules_1.7.0-5ubuntu3_arm64.deb containing libpam-modules:arm64, pre-dependency problem:
+ libpam-modules pre-depends on libdb5.3t64
+  libdb5.3t64:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../libpam-modules_1.7.0-5ubuntu3_arm64.deb containing libpam-modules:arm64, pre-dependency problem:
+ libpam-modules pre-depends on libpam0g (>= 1.4.1)
+  libpam0g is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../libpam-modules_1.7.0-5ubuntu3_arm64.deb containing libpam-modules:arm64, pre-dependency problem:
+ libpam-modules pre-depends on libselinux1 (>= 3.1~)
+  libselinux1 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../libpam-modules_1.7.0-5ubuntu3_arm64.deb containing libpam-modules:arm64, pre-dependency problem:
+ libpam-modules pre-depends on libsystemd0 (>= 254)
+  libsystemd0 is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../libpam-modules_1.7.0-5ubuntu3_arm64.deb containing libpam-modules:arm64, pre-dependency problem:
+ libpam-modules pre-depends on debconf (>= 0.5) | debconf-2.0
+  debconf is unpacked, but has never been configured.
+  debconf provides debconf-2.0 but is unpacked but not configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../libpam-modules_1.7.0-5ubuntu3_arm64.deb containing libpam-modules:arm64, pre-dependency problem:
+ libpam-modules pre-depends on libpam-modules-bin (= 1.7.0-5ubuntu3)
+  libpam-modules-bin is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../libpam-modules_1.7.0-5ubuntu3_arm64.deb ...
+Unpacking libpam-modules:arm64 (1.7.0-5ubuntu3) ...
+Selecting previously unselected package libpam-modules-bin.
+Preparing to unpack .../libpam-modules-bin_1.7.0-5ubuntu3_arm64.deb ...
+Unpacking libpam-modules-bin (1.7.0-5ubuntu3) ...
+Selecting previously unselected package libpam-runtime.
+Preparing to unpack .../libpam-runtime_1.7.0-5ubuntu3_all.deb ...
+Unpacking libpam-runtime (1.7.0-5ubuntu3) ...
+Selecting previously unselected package libpam0g:arm64.
+Preparing to unpack .../libpam0g_1.7.0-5ubuntu3_arm64.deb ...
+Unpacking libpam0g:arm64 (1.7.0-5ubuntu3) ...
+Selecting previously unselected package libpcre2-8-0:arm64.
+Preparing to unpack .../libpcre2-8-0_10.46-1build1_arm64.deb ...
+Unpacking libpcre2-8-0:arm64 (10.46-1build1) ...
+Selecting previously unselected package libproc2-0:arm64.
+Preparing to unpack .../libproc2-0_2%3a4.0.4-9ubuntu1_arm64.deb ...
+Unpacking libproc2-0:arm64 (2:4.0.4-9ubuntu1) ...
+Selecting previously unselected package libselinux1:arm64.
+Preparing to unpack .../libselinux1_3.9-4build1_arm64.deb ...
+Unpacking libselinux1:arm64 (3.9-4build1) ...
+Selecting previously unselected package libsemanage-common.
+Preparing to unpack .../libsemanage-common_3.9-1build1_all.deb ...
+Unpacking libsemanage-common (3.9-1build1) ...
+Selecting previously unselected package libsemanage2:arm64.
+Preparing to unpack .../libsemanage2_3.9-1build1_arm64.deb ...
+Unpacking libsemanage2:arm64 (3.9-1build1) ...
+Selecting previously unselected package libsepol2:arm64.
+Preparing to unpack .../libsepol2_3.9-2_arm64.deb ...
+Unpacking libsepol2:arm64 (3.9-2) ...
+Selecting previously unselected package libsmartcols1:arm64.
+Preparing to unpack .../libsmartcols1_2.41.3-3ubuntu2_arm64.deb ...
+Unpacking libsmartcols1:arm64 (2.41.3-3ubuntu2) ...
+Selecting previously unselected package libss2:arm64.
+Preparing to unpack .../libss2_1.47.2-3ubuntu4_arm64.deb ...
+Unpacking libss2:arm64 (1.47.2-3ubuntu4) ...
+Selecting previously unselected package libssl3t64:arm64.
+Preparing to unpack .../libssl3t64_3.5.5-1ubuntu3_arm64.deb ...
+Unpacking libssl3t64:arm64 (3.5.5-1ubuntu3) ...
+Selecting previously unselected package libsystemd0:arm64.
+Preparing to unpack .../libsystemd0_259.5-0ubuntu3_arm64.deb ...
+Unpacking libsystemd0:arm64 (259.5-0ubuntu3) ...
+Selecting previously unselected package libtinfo6:arm64.
+Preparing to unpack .../libtinfo6_6.6+20251231-1_arm64.deb ...
+Unpacking libtinfo6:arm64 (6.6+20251231-1) ...
+Selecting previously unselected package libudev1:arm64.
+Preparing to unpack .../libudev1_259.5-0ubuntu3_arm64.deb ...
+Unpacking libudev1:arm64 (259.5-0ubuntu3) ...
+Selecting previously unselected package libuuid1:arm64.
+Preparing to unpack .../libuuid1_2.41.3-3ubuntu2_arm64.deb ...
+Unpacking libuuid1:arm64 (2.41.3-3ubuntu2) ...
+Selecting previously unselected package libzstd1:arm64.
+Preparing to unpack .../libzstd1_1.5.7+dfsg-3_arm64.deb ...
+Unpacking libzstd1:arm64 (1.5.7+dfsg-3) ...
+Selecting previously unselected package login.
+dpkg: regarding .../login_1%3a4.16.0-2+really2.41.3-3ubuntu2_arm64.deb containing login, pre-dependency problem:
+ login pre-depends on login.defs (>= 1:4.16.0-1~)
+  login.defs is not installed.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../login_1%3a4.16.0-2+really2.41.3-3ubuntu2_arm64.deb ...
+Unpacking login (1:4.16.0-2+really2.41.3-3ubuntu2) ...
+Selecting previously unselected package login.defs.
+Preparing to unpack .../login.defs_1%3a4.17.4-2ubuntu3_all.deb ...
+Unpacking login.defs (1:4.17.4-2ubuntu3) ...
+Selecting previously unselected package logsave.
+Preparing to unpack .../logsave_1.47.2-3ubuntu4_arm64.deb ...
+Unpacking logsave (1.47.2-3ubuntu4) ...
+Preparing to unpack .../mawk_1.3.4.20260129-1_arm64.deb ...
+Unpacking mawk (1.3.4.20260129-1) over (1.3.4.20260129-1) ...
+Selecting previously unselected package mount.
+dpkg: regarding .../mount_2.41.3-3ubuntu2_arm64.deb containing mount, pre-dependency problem:
+ mount pre-depends on libblkid1 (= 2.41.3-3ubuntu2)
+  libblkid1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../mount_2.41.3-3ubuntu2_arm64.deb containing mount, pre-dependency problem:
+ mount pre-depends on libmount1 (= 2.41.3-3ubuntu2)
+  libmount1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../mount_2.41.3-3ubuntu2_arm64.deb containing mount, pre-dependency problem:
+ mount pre-depends on libselinux1 (>= 3.1~)
+  libselinux1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../mount_2.41.3-3ubuntu2_arm64.deb containing mount, pre-dependency problem:
+ mount pre-depends on libsmartcols1 (= 2.41.3-3ubuntu2)
+  libsmartcols1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../mount_2.41.3-3ubuntu2_arm64.deb ...
+Unpacking mount (2.41.3-3ubuntu2) ...
+Selecting previously unselected package ncurses-base.
+Preparing to unpack .../ncurses-base_6.6+20251231-1_all.deb ...
+Unpacking ncurses-base (6.6+20251231-1) ...
+Selecting previously unselected package ncurses-bin.
+dpkg: regarding .../ncurses-bin_6.6+20251231-1_arm64.deb containing ncurses-bin, pre-dependency problem:
+ ncurses-bin pre-depends on libtinfo6 (>= 6.6)
+  libtinfo6:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../ncurses-bin_6.6+20251231-1_arm64.deb ...
+Unpacking ncurses-bin (6.6+20251231-1) ...
+Selecting previously unselected package openssl-provider-legacy.
+Preparing to unpack .../openssl-provider-legacy_3.5.5-1ubuntu3_arm64.deb ...
+Unpacking openssl-provider-legacy (3.5.5-1ubuntu3) ...
+Selecting previously unselected package passwd.
+Preparing to unpack .../passwd_1%3a4.17.4-2ubuntu3_arm64.deb ...
+Unpacking passwd (1:4.17.4-2ubuntu3) ...
+dpkg: regarding .../perl-base_5.40.1-7build1_arm64.deb containing perl-base, pre-dependency problem:
+ perl-base pre-depends on libcrypt1 (>= 1:4.1.0)
+  libcrypt1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../perl-base_5.40.1-7build1_arm64.deb ...
+Unpacking perl-base (5.40.1-7build1) over (5.40.1-7build1) ...
+Selecting previously unselected package procps.
+Preparing to unpack .../procps_2%3a4.0.4-9ubuntu1_arm64.deb ...
+Unpacking procps (2:4.0.4-9ubuntu1) ...
+Selecting previously unselected package rust-coreutils.
+Preparing to unpack .../rust-coreutils_0.8.0-0ubuntu3_arm64.deb ...
+Unpacking rust-coreutils (0.8.0-0ubuntu3) ...
+Selecting previously unselected package sed.
+dpkg: regarding .../sed_4.9-2build3_arm64.deb containing sed, pre-dependency problem:
+ sed pre-depends on libacl1 (>= 2.2.23)
+  libacl1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../sed_4.9-2build3_arm64.deb containing sed, pre-dependency problem:
+ sed pre-depends on libselinux1 (>= 3.1~)
+  libselinux1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../sed_4.9-2build3_arm64.deb ...
+Unpacking sed (4.9-2build3) ...
+Selecting previously unselected package sensible-utils.
+Preparing to unpack .../sensible-utils_0.0.26build1_all.deb ...
+Unpacking sensible-utils (0.0.26build1) ...
+Selecting previously unselected package sysvinit-utils.
+Preparing to unpack .../sysvinit-utils_3.15-5ubuntu1_arm64.deb ...
+Unpacking sysvinit-utils (3.15-5ubuntu1) ...
+Selecting previously unselected package tar.
+dpkg: regarding .../tar_1.35+dfsg-4_arm64.deb containing tar, pre-dependency problem:
+ tar pre-depends on libacl1 (>= 2.2.23)
+  libacl1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../tar_1.35+dfsg-4_arm64.deb containing tar, pre-dependency problem:
+ tar pre-depends on libselinux1 (>= 3.1~)
+  libselinux1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../tar_1.35+dfsg-4_arm64.deb ...
+Unpacking tar (1.35+dfsg-4) ...
+Selecting previously unselected package util-linux.
+dpkg: regarding .../util-linux_2.41.3-3ubuntu2_arm64.deb containing util-linux, pre-dependency problem:
+ util-linux pre-depends on libpam-modules
+  libpam-modules:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../util-linux_2.41.3-3ubuntu2_arm64.deb containing util-linux, pre-dependency problem:
+ util-linux pre-depends on libpam-runtime
+  libpam-runtime is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../util-linux_2.41.3-3ubuntu2_arm64.deb containing util-linux, pre-dependency problem:
+ util-linux pre-depends on libblkid1 (= 2.41.3-3ubuntu2)
+  libblkid1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../util-linux_2.41.3-3ubuntu2_arm64.deb containing util-linux, pre-dependency problem:
+ util-linux pre-depends on libcap-ng0 (>= 0.7.9)
+  libcap-ng0:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../util-linux_2.41.3-3ubuntu2_arm64.deb containing util-linux, pre-dependency problem:
+ util-linux pre-depends on libcrypt1 (>= 1:4.1.0)
+  libcrypt1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../util-linux_2.41.3-3ubuntu2_arm64.deb containing util-linux, pre-dependency problem:
+ util-linux pre-depends on libmount1 (= 2.41.3-3ubuntu2)
+  libmount1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../util-linux_2.41.3-3ubuntu2_arm64.deb containing util-linux, pre-dependency problem:
+ util-linux pre-depends on libpam0g (>= 0.99.7.1)
+  libpam0g:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../util-linux_2.41.3-3ubuntu2_arm64.deb containing util-linux, pre-dependency problem:
+ util-linux pre-depends on libselinux1 (>= 3.1~)
+  libselinux1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../util-linux_2.41.3-3ubuntu2_arm64.deb containing util-linux, pre-dependency problem:
+ util-linux pre-depends on libsmartcols1 (= 2.41.3-3ubuntu2)
+  libsmartcols1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../util-linux_2.41.3-3ubuntu2_arm64.deb containing util-linux, pre-dependency problem:
+ util-linux pre-depends on libsystemd0
+  libsystemd0:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../util-linux_2.41.3-3ubuntu2_arm64.deb containing util-linux, pre-dependency problem:
+ util-linux pre-depends on libtinfo6 (>= 6)
+  libtinfo6:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../util-linux_2.41.3-3ubuntu2_arm64.deb containing util-linux, pre-dependency problem:
+ util-linux pre-depends on libudev1 (>= 183)
+  libudev1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+dpkg: regarding .../util-linux_2.41.3-3ubuntu2_arm64.deb containing util-linux, pre-dependency problem:
+ util-linux pre-depends on libuuid1 (= 2.41.3-3ubuntu2)
+  libuuid1:arm64 is unpacked, but has never been configured.
+
+dpkg: warning: ignoring pre-dependency problem!
+Preparing to unpack .../util-linux_2.41.3-3ubuntu2_arm64.deb ...
+Unpacking util-linux (2.41.3-3ubuntu2) ...
+Selecting previously unselected package zlib1g:arm64.
+Preparing to unpack .../zlib1g_1%3a1.3.dfsg+really1.3.1-1ubuntu3_arm64.deb ...
+Unpacking zlib1g:arm64 (1:1.3.dfsg+really1.3.1-1ubuntu3) ...
+Setting up libc-gconv-modules-extra:arm64 (2.43-2ubuntu2) ...
+Setting up login.defs (1:4.17.4-2ubuntu3) ...
+Setting up gcc-16-base:arm64 (16-20260322-1ubuntu1) ...
+Setting up libaudit-common (1:4.1.2-1build1) ...
+Setting up libsemanage-common (3.9-1build1) ...
+Setting up debconf (1.5.92) ...
+Setting up ncurses-base (6.6+20251231-1) ...
+Setting up init-system-helpers (1.69) ...
+Setting up sensible-utils (0.0.26build1) ...
+Setting up libgcc-s1:arm64 (16-20260322-1ubuntu1) ...
+Setting up libc6:arm64 (2.43-2ubuntu2) ...
+Setting up libdb5.3t64:arm64 (5.3.28+dfsg2-10ubuntu1) ...
+Setting up libudev1:arm64 (259.5-0ubuntu3) ...
+Setting up libmd0:arm64 (1.1.0-2build4) ...
+Setting up libattr1:arm64 (1:2.5.2-4) ...
+Setting up sysvinit-utils (3.15-5ubuntu1) ...
+Setting up libext2fs2t64:arm64 (1.47.2-3ubuntu4) ...
+Setting up debianutils (5.23.2build1) ...
+update-alternatives: using /usr/bin/which.debianutils to provide /usr/bin/which (which) in auto mode
+Setting up mawk (1.3.4.20260129-1) ...
+Setting up libdebconfclient0:arm64 (0.280ubuntu1) ...
+Setting up libbz2-1.0:arm64 (1.0.8-6build2) ...
+Setting up libbsd0:arm64 (0.12.2-2build2) ...
+Setting up libblkid1:arm64 (2.41.3-3ubuntu2) ...
+Setting up dash (0.5.12-12ubuntu3) ...
+Setting up libtinfo6:arm64 (6.6+20251231-1) ...
+Setting up libzstd1:arm64 (1.5.7+dfsg-3) ...
+Setting up liblzma5:arm64 (5.8.3-1) ...
+Setting up libc-bin (2.43-2ubuntu2) ...
+Setting up ncurses-bin (6.6+20251231-1) ...
+Setting up libacl1:arm64 (2.3.2-2) ...
+Setting up libsmartcols1:arm64 (2.41.3-3ubuntu2) ...
+Setting up zlib1g:arm64 (1:1.3.dfsg+really1.3.1-1ubuntu3) ...
+Setting up libcrypt1:arm64 (1:4.5.1-1) ...
+Setting up libcom-err2:arm64 (1.47.2-3ubuntu4) ...
+Setting up diffutils (1:3.12-1) ...
+Setting up libsystemd0:arm64 (259.5-0ubuntu3) ...
+Setting up perl-base (5.40.1-7build1) ...
+Setting up openssl-provider-legacy (3.5.5-1ubuntu3) ...
+Setting up hostname (3.25build1) ...
+Setting up libcap-ng0:arm64 (0.8.5-4build5) ...
+Setting up libgmp10:arm64 (2:6.3.0+dfsg-5ubuntu2) ...
+Setting up libaudit1:arm64 (1:4.1.2-1build1) ...
+Setting up libproc2-0:arm64 (2:4.0.4-9ubuntu1) ...
+Setting up gzip (1.14-1~exp2ubuntu1) ...
+Setting up libuuid1:arm64 (2.41.3-3ubuntu2) ...
+Setting up libss2:arm64 (1.47.2-3ubuntu4) ...
+Setting up libsepol2:arm64 (3.9-2) ...
+Setting up libpcre2-8-0:arm64 (10.46-1build1) ...
+Setting up libncursesw6:arm64 (6.6+20251231-1) ...
+Setting up logsave (1.47.2-3ubuntu4) ...
+Setting up procps (2:4.0.4-9ubuntu1) ...
+Setting up base-files (14ubuntu6) ...
+Setting up bash (5.3-2ubuntu1) ...
+update-alternatives: using /usr/share/man/man7/bash-builtins.7.gz to provide /usr/share/man/man7/builtins.7.gz (builtins.7.gz) in auto mode
+Setting up bsdutils (1:2.41.3-3ubuntu2) ...
+Setting up grep (3.12-1) ...
+Setting up libssl3t64:arm64 (3.5.5-1ubuntu3) ...
+Setting up e2fsprogs (1.47.2-3ubuntu4) ...
+Setting up libselinux1:arm64 (3.9-4build1) ...
+Setting up libpam0g:arm64 (1.7.0-5ubuntu3) ...
+Setting up gnu-coreutils (9.7-3ubuntu2) ...
+Setting up sed (4.9-2build3) ...
+Setting up findutils (4.10.0-3build2) ...
+Setting up libmount1:arm64 (2.41.3-3ubuntu2) ...
+Setting up libsemanage2:arm64 (3.9-1build1) ...
+Setting up base-passwd (3.6.8) ...
+Setting up tar (1.35+dfsg-4) ...
+update-alternatives: using /usr/sbin/rmt-tar to provide /usr/sbin/rmt (rmt) in auto mode
+Setting up libpam-modules-bin (1.7.0-5ubuntu3) ...
+Setting up rust-coreutils (0.8.0-0ubuntu3) ...
+Setting up dpkg (1.23.7ubuntu1) ...
+Setting up mount (2.41.3-3ubuntu2) ...
+Setting up coreutils-from-uutils (0.0.0~ubuntu25) ...
+Setting up libpam-modules:arm64 (1.7.0-5ubuntu3) ...
+Setting up coreutils (9.5-1ubuntu2+0.0.0~ubuntu25) ...
+Setting up passwd (1:4.17.4-2ubuntu3) ...
+Shadow passwords are now on.
+Setting up libpam-runtime (1.7.0-5ubuntu3) ...
+Setting up login (1:4.16.0-2+really2.41.3-3ubuntu2) ...
+Setting up util-linux (2.41.3-3ubuntu2) ...
+update-alternatives: using /bin/more to provide /usr/bin/pager (pager) in auto mode
+Processing triggers for libc-bin (2.43-2ubuntu2) ...
+(Reading database ... 7370 files and directories currently installed.)
+Preparing to unpack .../archives/apt_3.2.0_arm64.deb ...
+Unpacking apt (3.2.0) ...
+Preparing to unpack .../gpgv_2.4.8-4ubuntu3_arm64.deb ...
+Unpacking gpgv (2.4.8-4ubuntu3) ...
+Preparing to unpack .../libapt-pkg7.0_3.2.0_arm64.deb ...
+Unpacking libapt-pkg7.0:arm64 (3.2.0) ...
+Preparing to unpack .../libgcrypt20_1.12.0-2_arm64.deb ...
+Unpacking libgcrypt20:arm64 (1.12.0-2) ...
+Preparing to unpack .../libgpg-error0_1.58-2_arm64.deb ...
+Unpacking libgpg-error0:arm64 (1.58-2) ...
+Preparing to unpack .../liblz4-1_1.10.0-8_arm64.deb ...
+Unpacking liblz4-1:arm64 (1.10.0-8) ...
+Preparing to unpack .../libseccomp2_2.6.0-2ubuntu5_arm64.deb ...
+Unpacking libseccomp2:arm64 (2.6.0-2ubuntu5) ...
+Preparing to unpack .../libstdc++6_16-20260322-1ubuntu1_arm64.deb ...
+Unpacking libstdc++6:arm64 (16-20260322-1ubuntu1) ...
+Preparing to unpack .../libxxhash0_0.8.3-2build1_arm64.deb ...
+Unpacking libxxhash0:arm64 (0.8.3-2build1) ...
+Preparing to unpack .../ubuntu-keyring_2023.11.28.1build1_all.deb ...
+Unpacking ubuntu-keyring (2023.11.28.1build1) ...
+Processing triggers for libc-bin (2.43-2ubuntu2) ...
+Setting up libgpg-error0:arm64 (1.58-2) ...
+Setting up libgcrypt20:arm64 (1.12.0-2) ...
+Setting up ubuntu-keyring (2023.11.28.1build1) ...
+Setting up libseccomp2:arm64 (2.6.0-2ubuntu5) ...
+Setting up gpgv (2.4.8-4ubuntu3) ...
+Setting up libxxhash0:arm64 (0.8.3-2build1) ...
+Setting up libstdc++6:arm64 (16-20260322-1ubuntu1) ...
+Setting up liblz4-1:arm64 (1.10.0-8) ...
+Setting up libapt-pkg7.0:arm64 (3.2.0) ...
+Setting up apt (3.2.0) ...
+Processing triggers for libc-bin (2.43-2ubuntu2) ...
