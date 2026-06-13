@@ -1,3 +1,0 @@
-groups-usage = groups [VOLBA]… [UŽIVATELSKÉ-JMÉNO]…
-groups-error-user = žádný takový uživatel
-groups-error-fetch = nepodařilo se získat skupiny

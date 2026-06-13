@@ -1,1 +1,0 @@
-uname-unknown = d arussin

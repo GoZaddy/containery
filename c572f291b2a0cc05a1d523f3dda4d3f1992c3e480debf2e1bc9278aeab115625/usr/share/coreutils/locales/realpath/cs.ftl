@@ -1,3 +1,0 @@
-realpath-usage = realpath [VOLBA]… SOUBOR…
-realpath-about = Vypsat přeložený popis umístění
-realpath-invalid-empty-operand = neplatný operand: prázdný řetězec

@@ -1,5 +1,0 @@
-complete -c stdbuf -s i -l input -d 'adjust standard input stream buffering' -r
-complete -c stdbuf -s o -l output -d 'adjust standard output stream buffering' -r
-complete -c stdbuf -s e -l error -d 'adjust standard error stream buffering' -r
-complete -c stdbuf -s h -l help -d 'Print help'
-complete -c stdbuf -s V -l version -d 'Print version'

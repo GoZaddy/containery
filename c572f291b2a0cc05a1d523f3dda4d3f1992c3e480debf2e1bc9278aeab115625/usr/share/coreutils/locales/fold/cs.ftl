@@ -1,3 +1,0 @@
-fold-usage = fold [VOLBA]… [SOUBOR]…
-fold-error-illegal-width = neplatná hodnota šířky
-fold-error-readline = nepodařilo se načíst řádek

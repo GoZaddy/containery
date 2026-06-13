@@ -1,3 +1,0 @@
-head-usage = head [PŘÍZNAK]… [SOUBOR]…
-head-header-stdin = ==> standardní vstup <==
-head-error-parse-error = chyba zpracování: { $err }
