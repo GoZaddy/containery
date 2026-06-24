@@ -182,6 +182,10 @@ void startContainer(const std::string& container_name) {
         umount2("/put_old", MNT_DETACH);
         rmdir("/put_old");
 
+        // mount proc filesystem
+        mount("proc", "/proc", "proc", 0, NULL);
+
+
         // test that filesystem isolation works
         char* argv[] = { (char*)"cat", (char*)"/etc/os-release", nullptr };
         execvp("cat", argv);
