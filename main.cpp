@@ -151,7 +151,7 @@ void startContainer(const std::string& container_name) {
     cout << "Starting container..." << endl;
 
     struct clone_args args{};
-    args.flags = CLONE_NEWPID | CLONE_NEWUTS;
+    args.flags = CLONE_NEWPID | CLONE_NEWUTS | CLONE_NEWNS;
     args.exit_signal = SIGCHLD;
 
     // create new process with new pid namespace
