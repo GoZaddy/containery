@@ -1,7 +1,7 @@
 #include "http.h"
 #include "constants.h"
 
-using namespace containerify;
+using namespace containery;
 
 
 
@@ -44,7 +44,7 @@ HttpResponse makeHttpGetRequest(
         curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, writeCallback);
         curl_easy_setopt(curl, CURLOPT_WRITEDATA,  &response);
     } else {
-        file = fopen(file_output.c_str(), "wb");
+        file = fopen(file_output.c_str(), "wb"); 
         curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, nullptr);
         curl_easy_setopt(curl, CURLOPT_WRITEDATA,  file);
     }
