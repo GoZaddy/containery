@@ -15,6 +15,9 @@
 #include "types.h"
 #include <sys/mount.h>
 #include <filesystem>
+#include <fstream>
+#include <cstdint>
+#include <inttypes.h>
  
 using namespace std;
 using namespace containery;
@@ -147,7 +150,61 @@ pid_t clone3_syscall(struct clone_args *args){
     return (pid_t) syscall(SYS_clone3, args, sizeof(*args));
 }
 
-void startContainer(const std::string& container_name) {
+int setUpCgroup(pid_t pid, const std::string& container_name, int64_t memory_limit_bytes, double cpu_limit){
+    cout << "setting resource limits for container " << container_name << " " << memory_limit_bytes << " " << cpu_limit << endl;
+    
+
+    std::ofstream subtree_control("/sys/fs/cgroup/containery/cgroup.subtree_control");
+    if (subtree_control.is_open()) {
+        subtree_control << "+memory +cpu";
+        subtree_control.close();
+    } else {
+        std::cerr << "Failed to enable controllers in parent cgroup" << std::endl;
+        return -1;
+    }
+
+    std::string cgroup_path = "/sys/fs/cgroup/containery/" + container_name;
+    std::filesystem::create_directories(cgroup_path);
+
+    std::ofstream procs_file(cgroup_path + "/cgroup.procs");
+    if (procs_file.is_open()) {
+        procs_file << pid;
+        procs_file.close();
+    } else {
+        std::cerr << "Failed to write to cgroup.procs" << std::endl;
+        return -1;
+    }
+
+    
+
+    // Set memory limit
+    if (memory_limit_bytes > 0) {
+        std::ofstream memory_limit_file(cgroup_path + "/memory.max");
+        if (memory_limit_file.is_open()) {
+            memory_limit_file << memory_limit_bytes;
+            memory_limit_file.close();
+        } else {
+            std::cerr << "Failed to open memory.max for writing." << std::endl;
+            return -1;
+        }
+    }
+
+    // Set CPU limit
+    if (cpu_limit > 0) {
+        std::ofstream cpu_max_file(cgroup_path + "/cpu.max");
+        if (cpu_max_file.is_open()) {
+            int64_t cpu_quota = static_cast<int64_t>(cpu_limit * 100000); // Convert to microseconds
+            cpu_max_file << cpu_quota << " 100000"; // Set period to 100ms
+            cpu_max_file.close();
+        } else {
+            std::cerr << "Failed to open cpu.max for writing." << std::endl;
+            return -1;
+        }
+    }
+    return 0;
+}
+
+void startContainer(const std::string& container_name, int64_t memory_limit_bytes, double cpu_limit) {
     cout << "Starting container..." << endl;
 
     struct clone_args args{};
@@ -156,6 +213,9 @@ void startContainer(const std::string& container_name) {
 
     // create new process with new pid namespace
 
+    int pipefd[2];
+    pipe(pipefd);
+
     pid_t pid = clone3_syscall(&args);
 
     if (pid == -1) {
@@ -163,6 +223,13 @@ void startContainer(const std::string& container_name) {
         return;
     } else if (pid == 0) {
         // child/container process
+        // wait for parent to finish set up
+        close (pipefd[1]); // Close write end of the pipe
+        char buffer;
+        read(pipefd[0], &buffer, 1); // block by reading from the pipe until parent closes it
+        close(pipefd[0]); // Close read end of the pipe
+
+
         const char* hostname = "mycontainer";
         int result = sethostname(hostname, strlen(hostname));
 
@@ -190,33 +257,66 @@ void startContainer(const std::string& container_name) {
         char* argv[] = { (char*)"cat", (char*)"/etc/os-release", nullptr };
         execvp("cat", argv);
 
+        char hostname_result[HOST_NAME_MAX + 1]; 
+    
+        if (gethostname(hostname_result, sizeof(hostname_result)) == 0) {
+            std::cout << "GetHostname: " << hostname_result << std::endl;
+        } else {
+            std::perror("gethostname failed");
+            return;
+        }
+
         cout << "Container started with PID: " << getpid() << endl;
     } else {
         // parent process
         cout << "Container created with PID: " << pid << endl;
-        
-    }
 
-
-    char hostname[HOST_NAME_MAX + 1]; 
-    
-    if (gethostname(hostname, sizeof(hostname)) == 0) {
-        std::cout << "GetHostname: " << hostname << std::endl;
-    } else {
-        std::perror("gethostname failed");
-        return;
-    }
-
-    if (pid != 0) {
-        // wait on container process to finish
+        close(pipefd[0]); // Close read end of the pipe
+        if (setUpCgroup(pid, container_name, memory_limit_bytes, cpu_limit) != 0) {
+            cerr << "Failed to set resource limits for container: " << container_name << endl;
+            close(pipefd[1]);
+            return;
+        }
+        write(pipefd[1], "x", 1); // Signal the child to continue
+        close(pipefd[1]); // Close write end of the pipe
         waitpid(pid, NULL, 0);
     }
+}
 
-    
+int64_t parseMemoryLimit(const std::string& memory_limit_str) {
+    int64_t memory_limit = 0;
+    char unit = '\0';
 
+    // Parse the numeric part and the unit
+    if (sscanf(memory_limit_str.c_str(), "%" SCNd64 "%c", &memory_limit, &unit) != 2) {
+        std::cerr << "Invalid memory limit format: " << memory_limit_str << std::endl;
+        return -1;
+    }
+
+    // Convert based on the unit
+    switch (unit) {
+        case 'K':
+        case 'k':
+            memory_limit *= 1024; // Kilobytes to bytes
+            break;
+        case 'M':
+        case 'm':
+            memory_limit *= 1024 * 1024; // Megabytes to bytes
+            break;
+        case 'G':
+        case 'g':
+            memory_limit *= 1024 * 1024 * 1024; // Gigabytes to bytes
+            break;
+        default:
+            std::cerr << "Unknown memory unit: " << unit << std::endl;
+            return -1;
+    }
+
+    return memory_limit;
 }
 
 int main(int argc, char* argv[]) {
+    // parse command line arguments
     if (argc < 2) {
         cerr << "Invalid usage. See --help for help" << std::endl;
         return 1;
@@ -232,10 +332,41 @@ int main(int argc, char* argv[]) {
             cerr << "Usage: " << argv[0] << "run <image_name> <container_name>" << endl;
             return 1;
         }
+
+        std::string memory_limit;
+        double cpu_limit;
+        if (argc > 4 && argc % 2 != 0){
+            cerr << "Invalid usage. See --help for help" << endl;
+            return 1;
+        } else {
+            for (int i = 4; i < argc; i += 2){
+                std::string option = argv[i];
+                if (option == "--memory"){
+                    memory_limit = argv[i+1];
+                } else if (option == "--cpu"){
+                    cpu_limit = std::stod(argv[i+1]);
+                } else {
+                    cerr << "Unknown option: " << option << ". See --help for help" << endl;
+                    return 1;
+                }
+            }
+        }
+        
+        int64_t memory_limit_bytes = 0;
+        if (!memory_limit.empty()) {
+            memory_limit_bytes = parseMemoryLimit(memory_limit);
+            if (memory_limit_bytes == -1) {
+                return 1; // Error parsing memory limit
+            }
+        }
+
+
         const std::string image_name = argv[2];
         const std::string container_name = argv[3];
+
+        // fetch image from docker hub and start container
         if (retrieveDockerHubImage(image_name, container_name) != -1) {
-            startContainer(container_name);
+            startContainer(container_name, memory_limit_bytes, cpu_limit);
         }
         
 
